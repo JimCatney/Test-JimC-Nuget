@@ -1,0 +1,5 @@
+C:\GitHub\Test-JimC-Nuget\ClassLibraryToBePackaged\bin\Debug\ClassLibraryToBePackaged.dll
+C:\GitHub\Test-JimC-Nuget\ClassLibraryToBePackaged\bin\Debug\ClassLibraryToBePackaged.pdb
+C:\GitHub\Test-JimC-Nuget\ClassLibraryToBePackaged\obj\Debug\ClassLibraryToBePackaged.csprojResolveAssemblyReference.cache
+C:\GitHub\Test-JimC-Nuget\ClassLibraryToBePackaged\obj\Debug\ClassLibraryToBePackaged.dll
+C:\GitHub\Test-JimC-Nuget\ClassLibraryToBePackaged\obj\Debug\ClassLibraryToBePackaged.pdb
