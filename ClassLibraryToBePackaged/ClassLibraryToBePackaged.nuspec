@@ -14,5 +14,15 @@
     <releaseNotes>Scans all folders for *.NuSpec files.</releaseNotes>
     <copyright>Copyright 2014</copyright>
     <tags>Test TeamCity NuGet</tags>
+    <dependencies>
+	  <dependency id="Newtonsoft.Json" version="5.0.0" />  
+	</dependencies>  
   </metadata>
+  <files>
+    <file src="bin\Release\ClassLibraryToBePackaged.dll" target="lib\" />    
+    <!-- This could be used to provide a "Symbols" package to help with debugging 
+      eg: http://blog.davidebbo.com/2011/04/easy-way-to-publish-nuget-packages-with.html
+      -->
+    <file src="bin\Release\ClassLibraryToBePackaged.pdb" target="lib\" />
+  </files> 
 </package>
