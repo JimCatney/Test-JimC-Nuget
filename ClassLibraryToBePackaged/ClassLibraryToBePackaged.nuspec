@@ -6,9 +6,9 @@
     <title>NuGet Test 1</title>
     <authors>MYOBAD</authors>
     <owners>MYOBAD</owners>
-    <licenseUrl>http://myob.com</licenseUrl</licenseUrl>
-    <projectUrl>http://myob.com</projectUrl</projectUrl>
-    <iconUrl>http://myob.com</iconUrl</iconUrl>
+    <licenseUrl>http://myob.com/licenseUrl</licenseUrl>
+    <projectUrl>http://myob.com/projectUrl</projectUrl>
+    <iconUrl>http://myob.com/iconUrl</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Tests the packaging and storing of artifacts on TeamCity NuGet server</description>
     <releaseNotes>Scans all folders for *.NuSpec files.</releaseNotes>
