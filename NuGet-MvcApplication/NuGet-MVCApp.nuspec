@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MYOB.NuGetMVCAppTest3</id>
+    <version>1.0.0</version>
+    <title>NuGetMVCAppTest3</title>
+    <authors>MYOBAD</authors>
+    <owners>MYOBAD</owners>
+    <licenseUrl>http://myob.com/licenseUrl2</licenseUrl>
+    <projectUrl>http://myob.com/projectUrl2</projectUrl>
+    <iconUrl>http://myob.com/iconUrl2</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tests the packaging and storing of artifacts on TeamCity NuGet server over several projects</description>
+    <releaseNotes>Scans all folders for *.NuSpec files.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Test3 TeamCity NuGet MVC</tags>
+  </metadata>
+</package>
